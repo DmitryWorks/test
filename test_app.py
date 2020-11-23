@@ -4,3 +4,5 @@
 # i tested it, it`s ok
 name = input('name: ')
 print('your name is: ', name)
+
+# write this cut for new name pls.
