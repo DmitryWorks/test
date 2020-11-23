@@ -6,6 +6,6 @@ name = input('your name: ')
 print('your name is: ', name)
 
 # write this cut for new name pls.
- surename = input('your sure name: ')
+surename = input('your sure name: ')
 
- print('your name is: ', name, ' and sure name is: ', surename, ' Hi ' + name + " " +surename)
+print('your name is: ', name, ' and sure name is: ', surename, ' Hi ' + name + " " +surename)
